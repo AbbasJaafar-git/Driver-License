@@ -1,0 +1,9 @@
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\bin\Debug\PeopleBussinessLayer.dll
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\bin\Debug\PeopleBussinessLayer.pdb
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\bin\Debug\PeopleDataAccessLayer.dll
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\bin\Debug\PeopleDataAccessLayer.pdb
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\obj\Debug\PeopleBussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\obj\Debug\PeopleBussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\obj\Debug\PeopleBussinessLayer.csproj.CopyComplete
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\obj\Debug\PeopleBussinessLayer.dll
+C:\Users\Hp\Desktop\License\PeopleBussinessLayer\obj\Debug\PeopleBussinessLayer.pdb

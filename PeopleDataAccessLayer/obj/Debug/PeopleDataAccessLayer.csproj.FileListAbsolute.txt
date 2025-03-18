@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\License\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.dll
+C:\Users\Hp\Desktop\License\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.pdb
+C:\Users\Hp\Desktop\License\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\License\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\License\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.dll
+C:\Users\Hp\Desktop\License\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.pdb
